@@ -6,3 +6,5 @@ This is speed before vite
 
 This is the speed after vite setup
 ![After ViteJs](https://user-images.githubusercontent.com/4314513/126084168-2a0d53c6-d626-4411-b4d5-6bb9d7b463c0.PNG)
+
+fjbfuibniofbnoifdnbiofdhoib bdfuk biudfb iu
